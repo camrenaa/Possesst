@@ -21,5 +21,5 @@ Welcome! This is a showcase of my firstperson/thirdperson hybrid character contr
 
 ## 📋 Information
 > Latest update: 2025 | Information is subject to change...
-## For more information contact me at: camrenaashby@gmail.com
+## For more information, visit my [portfolio] where my contact info is listed.
 

@@ -23,5 +23,5 @@ Welcome! This is a showcase of my firstperson/thirdperson hybrid character contr
 
 ## 📋 Misc. Information
 > Latest update: 2025 | Information is subject to change...
-## For more information, visit my [portfolio](https://camrenaa.github.io/) where my contact info is listed.
+## For more information, visit my [portfolio](https://camrenaa.github.io/) where my contact info is listed...
 

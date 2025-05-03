@@ -19,7 +19,7 @@ Welcome! This is a showcase of my firstperson/thirdperson hybrid character contr
 ### Crossplatform + VR/AR/XR compatable!
 + ' Possesst ' allows you to create a character controller for any desired platform and/or perspective.
 
-> Latest update: 2025 | Information is subject to change...
 ## 📋 Information
-## For
+> Latest update: 2025 | Information is subject to change...
+## For more information contact me at: camrenaashby@gmail.com
 

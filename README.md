@@ -4,7 +4,7 @@ Welcome! This is a showcase of my firstperson/thirdperson hybrid character contr
 
 ## Features
 ### Realistic movement 
-+ Adaptive natural looking full-body movement generated on the fly procedurally. ' Possesst ' utilized procedural animation & multiple forms of Inverse Kinematics (IK).
++ Adaptive natural looking movement generated on the fly procedurally. ' Possesst ' utilizes  procedural  full-body animation & multiple forms of Inverse Kinematics (IK).
   
 ### Use any animation you desire 
 + Customize the animations in ' pose mode ' via Unity Aniamtion Editor or export the viewmodel to your desired 3D modelling software for in-depth animating.

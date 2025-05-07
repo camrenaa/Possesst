@@ -22,6 +22,7 @@ Welcome! This is a showcase of my firstperson/thirdperson hybrid character contr
 # _
 ### Preserves stunning realistic visuals
 + View-model without using multiple cameras while still allowing ZERO clipping of the arms. Using a special technique, the view-model casts & receives true shadows from the ENTIRE scene/world.
+
 ![c4](https://github.com/user-attachments/assets/8abbc305-5b94-4d51-a50c-779219e4d3a6)
 
 # _

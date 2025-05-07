@@ -4,8 +4,12 @@ Welcome! This is a showcase of my firstperson/thirdperson hybrid character contr
 
 # _
 ## Features
+
+# _
 ### Realistic movement 
 + Adaptive natural looking movement **generated on the fly procedurally**. ' Possesst ' utilizes  procedural  full-body animation & multiple **inverse kinematics (IK)** techniques.
+
+![c6](https://github.com/user-attachments/assets/4c982ee6-d300-4b53-80e6-85441a9b2b56)
 
 # _
 ### Use any animation you desire 

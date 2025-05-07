@@ -4,22 +4,22 @@ Welcome! This is a showcase of my firstperson/thirdperson hybrid character contr
 
 ## Features
 ### Realistic movement 
-+ Adaptive natural looking movement generated on the fly procedurally. ' Possesst ' utilizes  procedural  full-body animation & multiple forms of Inverse Kinematics (IK).
++ Adaptive natural looking movement **generated on the fly procedurally**. ' Possesst ' utilizes  procedural  full-body animation & multiple **inverse kinematics (IK)** techniques.
   
 ### Use any animation you desire 
-+ Customize the animations in ' pose mode ' via Unity Aniamtion Editor or export the viewmodel to your desired 3D modelling software for in-depth animating.
++ Customize the animations in ' pose mode ' via Unity **Aniamtion Editor** or export the viewmodel to your desired 3D modelling software for in-depth animating.
   
 ### All you need is your character model 
-+ Automatically generate viewmodel arms/rig instantly! Simply drag & drop any rigged humaoid character model, and your viewmodel is automatically created.
++ Automatically **generate viewmodel arms/rig instantly**! Simply drag & drop any rigged humaoid character model, and your viewmodel is automatically created.
 
 ### Create any type of character controller 
-+ Full-support for an unlimited amount of characters from 3D, 2D, firstperson, thirdperson, top-down, combat/fighter, etc. Endless possiblities...
++ Full-support for an **unlimited amount of character controller types** from 3D, 2D, firstperson, thirdperson, top-down, combat/fighter, etc. Endless possiblities...
   
 ### Fully modular & customizable 
-+ Designed to fit the needs of a more simplified approach, but has capabilites of configuring every single parameter. You can even write your own character controller using the 'Possesst backend library'.
++ Designed to fit the needs of a more simplified approach, but has capabilites of configuring every single parameter. You can even **write your own character controller** using the 'Possesst backend library'.
 
 ### Crossplatform + VR/AR/XR compatable 
-+ ' Possesst ' allows you to create a character controller for any desired platform and/or perspective.
++ ' Possesst ' allows you to create a character controller for **any desired platform** and/or perspective.
 
 ## 📋 Misc. Information
 > Latest update: 2025 | Information is subject to change...

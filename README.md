@@ -21,6 +21,9 @@ Welcome! This is a showcase of my firstperson/thirdperson hybrid character contr
 ### Crossplatform + VR/AR/XR compatable 
 + ' Possesst ' allows you to create a character controller for **any desired platform** and/or perspective.
 
+### Preserves stunning realistic visuals
++ View-model without using multiple cameras. The view-model casts & receives true shadows based on the model's actual position in the world relative to lights. Not your traditional " FPS Controller ".
+
 ## 📋 Misc. Information
 > Latest update: 2025 | Information is subject to change...
 ## For more information visit my [portfolio](https://camrenaa.github.io/)

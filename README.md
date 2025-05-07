@@ -12,6 +12,9 @@ Welcome! This is a showcase of my firstperson/thirdperson hybrid character contr
 ### All you need is your character model 
 + Automatically **generate viewmodel arms/rig instantly**! Simply drag & drop any rigged humaoid character model, and your viewmodel is automatically created.
 
+### Preserves stunning realistic visuals
++ View-model without using multiple cameras while still allowing ZERO clipping of the arms. Using a special technique, the view-model casts & receives true shadows from the ENTIRE scene/world.
+
 ### Create any type of character controller 
 + Full-support for an **unlimited amount of character controller types** from 3D, 2D, firstperson, thirdperson, top-down, combat/fighter, etc. Endless possiblities...
   
@@ -20,9 +23,6 @@ Welcome! This is a showcase of my firstperson/thirdperson hybrid character contr
 
 ### Crossplatform + VR/AR/XR compatable 
 + ' Possesst ' allows you to create a character controller for **any desired platform** and/or perspective.
-
-### Preserves stunning realistic visuals
-+ View-model without using multiple cameras. The view-model casts & receives true shadows based on the model's actual position in the world relative to lights. Not your traditional " FPS Controller ".
 
 ## 📋 Misc. Information
 > Latest update: 2025 | Information is subject to change...

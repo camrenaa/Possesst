@@ -8,7 +8,8 @@ Welcome! This is a showcase of my firstperson/thirdperson hybrid character contr
   
 ### Use any animation you desire 
 + Customize the animations in ' pose mode ' via Unity **Aniamtion Editor** or export the viewmodel to your desired 3D modelling software for in-depth animating.
-  
+![c2](https://github.com/user-attachments/assets/8bf5ffac-4fb5-4ec2-b0eb-2afcb353284e)
+
 ### All you need is your character model 
 + Automatically **generate viewmodel arms/rig instantly**! Simply drag & drop any rigged humaoid character model, and your viewmodel is automatically created.
 
@@ -20,6 +21,7 @@ Welcome! This is a showcase of my firstperson/thirdperson hybrid character contr
   
 ### Fully modular & customizable 
 + Designed to fit the needs of a more simplified approach, but has capabilites of configuring every single parameter. You can even **write your own character controller** using the 'Possesst backend library'.
+![c3](https://github.com/user-attachments/assets/792b4d80-0269-4832-8380-d7e87ee71db2)
 
 ### Crossplatform + VR/AR/XR compatable 
 + ' Possesst ' allows you to create a character controller for **any desired platform** and/or perspective.

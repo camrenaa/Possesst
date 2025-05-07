@@ -2,7 +2,6 @@
 ![Screenshot 2025-05-03 122024](https://github.com/user-attachments/assets/4a0424c8-42b1-48fa-833b-1cce3472e3eb)
 Welcome! This is a showcase of my firstperson/thirdperson hybrid character controller asset for Unity. This asset will be availbe on the Unity Asset Store for everyone to use in any desired project.
 
-# _
 ### Realistic movement 
 + Adaptive natural looking movement **generated on the fly procedurally**. ' Possesst ' utilizes  procedural  full-body animation & multiple **inverse kinematics (IK)** techniques.
 
